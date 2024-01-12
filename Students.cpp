@@ -53,7 +53,8 @@ void AddStudents(ArrayStudents& a, Student* st)
 		a.list[a.Count++] = st;
 	
 		cout << endl;
-		int a = 0;
+		int a = 0;///Добавила комментарий
+		int b = 1;
 }
 
 void RemoveStudent(ArrayStudents &a,int index)
